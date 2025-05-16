@@ -26,7 +26,7 @@ The TwoSum Solution project is a simple .NET 8.0 console application that finds 
 
    ```bash
    https://github.com/razibpalash/TwoSumTask1.git
-   cd TwoSumTask1
+   cd TwoSum
    ```
 
 2. Restore packages:
@@ -38,7 +38,7 @@ The TwoSum Solution project is a simple .NET 8.0 console application that finds 
 3. Run the application:
 
    ```bash
-   dotnet run --project TwoSumTask1
+   dotnet run --project TwoSum
    ```
 
 4. Run the unit tests:
